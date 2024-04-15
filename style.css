@@ -14,7 +14,7 @@ body {
     align-items: center;
     background-image: url('./asset/gg.jpg');
     background-size: cover;
-    animation: slideBackground 5s linear infinite; /* Adjust animation speed and direction */
+    animation: slideBackground 10s linear infinite; /* Adjust animation speed and direction */
 }
 
 @keyframes slideBackground {
